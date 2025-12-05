@@ -2,7 +2,7 @@
 
 Welcome to the source code of my personal portfolio website! This site showcases my projects in Software Engineering, Mobile Development (Flutter), and Data Structures (C++).
 
-👉 **[View Live Portfolio](https://ling2609.github.io/portfolio/)**
+👉 **[View Live Portfolio](https://ling2609.github.io/)**
 
 ## 🛠️ Built With
 - **HTML5 & CSS3:** Semantic markup and responsive flexbox design.
